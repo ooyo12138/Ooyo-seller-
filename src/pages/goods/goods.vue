@@ -1,5 +1,7 @@
 <template>
-    
+    <div>
+        goods.vue
+    </div>
 </template>
 
 <script>

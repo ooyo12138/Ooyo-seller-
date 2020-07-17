@@ -1,5 +1,5 @@
 <template>
-    
+    <div>ratings.vue</div>
 </template>
 
 <script>
