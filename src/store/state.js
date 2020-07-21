@@ -1,3 +1,6 @@
 export default {
-    test:"test"
+    seller:{},
+    goods:[],
+    ratings:[],
+    OK:200
 }
